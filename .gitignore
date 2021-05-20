@@ -1,0 +1,14 @@
+/shelf/
+/workspace.xml
+target/
+.idea/
+*.class
+.mtj.tmp/
+*.jar
+*.war
+*.ear
+log/
+*.iws
+/out/
+.DS_Store
+.idea
